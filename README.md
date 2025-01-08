@@ -1,4 +1,3 @@
-```markdown
 # Node.js Express Backend with Cloudflare Hosting
 
 ## Project Description
@@ -8,7 +7,6 @@ This project is a web backend developed using Node.js and Express, hosted on Clo
 ## Table of Contents
 
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Features](#features)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -20,7 +18,6 @@ This project is a web backend developed using Node.js and Express, hosted on Clo
 ## Installation
 
 To get started, clone the repository and install the necessary dependencies:
-
 ```bash
 git clone https://github.com/mdAdham/Website-BackEnd-Test.git
 cd Website-BackEnd-Test
